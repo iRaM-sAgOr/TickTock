@@ -1,1 +1,35 @@
- I am sagor.i love to play cricket.i know i m writing some bullshit.i m just doing this to learn github.thank you
+i will write the command line to use git with comments
+1.git config --global user,name "my user name"
+//this makes me log in with the git account by the git base commant prom
+2.git config --global user.email "my email"
+3.cd Desktop
+//go to desktop
+4.clear
+all clear in the cmd
+5.git clone http link of the reposetory
+///download the repository to the pc
+6.ls
+./////////it means to show the all files in the current location
+7.cd je_file_e_jaitecai_tar_nam
+8.vim readme.md
+//vim text editor e ei file ta khulbe edit korajabe.likhar sese esc dia ;x dile save hoy
+9.git status 
+it means what modified and what not now.briefly
+10.git add file_name_with_extention
+it just select the file
+10.git add .
+it means to select all files
+11.git commit -help
+it shows the manu card 
+12.git commit -m "this comments are shown in the file description or comment"
+13.git log 
+it means to show the update 
+14.git remote add origin http_address_of_repository
+here we can connect with the master from the origin.origin is the local pc rom.
+and master is the git hub repository.
+15.git push -u origin master
+upload the file to the master from the origin
+
+16.touch test.txt
+this commands make such a file in the current local origin 
+
