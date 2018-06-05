@@ -1,5 +1,5 @@
 i will write the command line to use git with comments
-1.git config --global user,name "my user name"
+1.git config --global user.name "my user name"
 //this makes me log in with the git account by the git base commant prom
 2.git config --global user.email "my email"
 3.cd Desktop
